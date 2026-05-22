@@ -1,43 +1,68 @@
-# MacBook Store
+MacBook Store – Flask E-Commerce Web Application
 
-A simple Flask web application for displaying and managing MacBook products.
+MacBook Store is a Flask-based web application developed for showcasing and managing MacBook products through a modern and responsive interface. The project includes an admin dashboard for managing products, along with a clean shopping-style user experience inspired by leading e-commerce platforms.
 
-## Features
+Features
 
-- Public product catalog
-- Admin login and dashboard
-- Update product prices and descriptions
-- Responsive design
+• Public Product Catalog  
+• Admin Login and Dashboard  
+• Product Price and Description Management  
+• Responsive User Interface  
+• Flask-Based Backend  
+• JSON Data Management  
 
-## Setup
+Technologies Used
 
-1. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+• Python  
+• Flask  
+• HTML5  
+• CSS3  
+• JavaScript  
 
-2. Add product images to `static/images/`:
-   - m1.jpg
-   - m2.jpg
-   - m3.jpg
-   - m4.jpg
-   - m5.jpg
+Installation and Setup
 
-3. Run the application:
-   ```
-   python app.py
-   ```
+Install the required dependencies:
 
-4. Open http://127.0.0.1:5000 in your browser.
+pip install -r requirements.txt
 
-## Admin Access
+Add product images inside:
 
-- Username: admin
-- Password: admin
+static/images/
 
-## Project Structure
+Required image files:
 
-- `app.py`: Main Flask application
-- `data.json`: Product data
-- `templates/`: HTML templates
-- `static/`: CSS and images
+• m1.jpg  
+• m2.jpg  
+• m3.jpg  
+• m4.jpg  
+• m5.jpg  
+
+Run the Flask application:
+
+python app.py
+
+Open the application in your browser:
+
+http://127.0.0.1:5000
+
+Admin Access
+
+Username: admin  
+Password: admin  
+
+Project Structure
+
+macbook-store/
+│
+├── app.py  
+├── data.json  
+├── requirements.txt  
+├── templates/  
+├── static/  
+│   ├── css/  
+│   └── images/  
+└── README.md  
+
+Author
+
+Sachin R V
