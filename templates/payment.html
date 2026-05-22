@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Payment Information</h1>
+        <form method="POST" style="max-width: 600px; margin: 0 auto;">
+            <h2>Card Details</h2>
+            <input type="text" name="card_number" placeholder="Card Number" required style="width: 100%; margin-bottom: 10px;">
+            <input type="text" name="expiry" placeholder="MM/YY" required style="width: 48%; margin-bottom: 10px;">
+            <input type="text" name="cvv" placeholder="CVV" required style="width: 48%; margin-bottom: 10px; margin-left: 4%;">
+            <input type="text" name="name_on_card" placeholder="Name on Card" required style="width: 100%; margin-bottom: 20px;">
+            <button type="submit" style="width: 100%; padding: 15px; background: #28a745; color: white; border: none; border-radius: 6px; font-size: 18px;">Complete Payment</button>
+        </form>
+    </div>
+</body>
+</html>

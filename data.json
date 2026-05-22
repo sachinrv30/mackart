@@ -1,0 +1,57 @@
+[
+    {
+        "name": "MacBook Air M5",
+        "price": "₹2,99,999",
+        "desc": "Extreme performance",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "display": "13.6-inch Liquid Retina",
+        "battery": "Up to 18 hours",
+        "processor": "Apple M5 chip"
+    },
+    {
+        "name": "MacBook Air M4",
+        "price": "₹1,50,999",
+        "desc": "Powerful and efficient",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664477161074",
+        "ram": "16GB",
+        "storage": "256GB SSD",
+        "display": "13.6-inch Liquid Retina",
+        "battery": "Up to 18 hours",
+        "processor": "Apple M4 chip"
+    },
+    {
+        "name": "MacBook Air M3",
+        "price": "₹1,00,000",
+        "desc": "Thin and fast",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-silver-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664477161003",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "display": "13.6-inch Liquid Retina",
+        "battery": "Up to 18 hours",
+        "processor": "Apple M3 chip"
+    },
+    {
+        "name": "MacBook Air M2",
+        "price": "₹80,000",
+        "desc": "Best value",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664477161022",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "display": "13.3-inch Retina",
+        "battery": "Up to 18 hours",
+        "processor": "Apple M2 chip"
+    },
+    {
+        "name": "MacBook Air M1",
+        "price": "₹60,000",
+        "desc": "Reliable choice",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664477161074",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "display": "13.3-inch Retina",
+        "battery": "Up to 18 hours",
+        "processor": "Apple M1 chip"
+    }
+]
