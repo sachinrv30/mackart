@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 #  MacKart
@@ -465,4 +464,3 @@ Built with Python • Flask • HTML • CSS • JavaScript
 **Developed by Sachin R V**
 
 </div>
-```
